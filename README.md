@@ -59,7 +59,7 @@ The UX will feature **Matrix inspired responses**, making the fact checking proc
 ## 👥 Team
 
 Hackathon team members: 
-**Aarav Patil**
-**Aditya Surse**
-**Hitesh Patil**
-**Siddhesh Hole**
+* **Aarav Patil**
+* **Aditya Surse**
+* **Hitesh Patil**
+* **Siddhesh Hole**
