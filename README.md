@@ -2,13 +2,12 @@
 
 *A Matrix-inspired bot to combat misinformation at its source*
 
----
 
 ## 🔹 Overview
 
-Misinformation spreads like wildfire across messaging platforms, creating confusion, panic, and distrust. The Factrix is our hackathon project submission under the theme **The Matrix**. Inspired by the "red pill moment," Factrix empowers users to "wake up" from fake narratives by instantly verifying the credibility of shared news or links—right inside their chat apps.
+Misinformation spreads like wildfire across messaging platforms, creating confusion, panic, and distrust. The Factrix is our hackathon project submission under the theme **The Matrix**. Inspired by the "red pill moment," Factrix empowers users to "wake up" from fake narratives by instantly verifying the credibility of shared news or links right inside their chat apps.
 
----
+
 
 ## 🔹 Problem Statement
 
@@ -16,7 +15,7 @@ Misinformation spreads like wildfire across messaging platforms, creating confus
 * Users often forward sensational claims without verifying them.
 * False information spreads faster than the truth, leading to harmful consequences.
 
----
+
 
 ## 🔹 Our Solution: Factrix
 
@@ -31,7 +30,7 @@ Factrix is a **Telegram/WhatsApp bot** that acts as a quick and accessible fact-
 
 The UX will feature **Matrix-inspired responses**, making the fact-checking process engaging and thematic.
 
----
+
 
 ## 🔹 Key Features
 
@@ -47,15 +46,15 @@ The UX will feature **Matrix-inspired responses**, making the fact-checking proc
 * **Backend:** Python/Node.js for orchestration.
 * **Deployment:** Cloud-hosted.
 
----
+
 
 
 ## 🔹 The Matrix Connection
 
 * Taking the "red pill" = Choosing truth over deception.
-* Our bot is the **red pill for misinformation**—helping people see reality clearly.
+* Our bot is the **red pill for misinformation** helping people see reality clearly.
 
----
+
 
 ## 👥 Team
 
@@ -64,5 +63,3 @@ Hackathon team members:
 **Aditya Surse**
 **Hitesh Patil**
 **Siddhesh Hole**
-
----
